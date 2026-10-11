@@ -1,0 +1,10 @@
+.venv/
+web/node_modules/
+.run/
+__pycache__/
+*.pyc
+media/evidence/
+media/clips/*.mp4
+bin/mediamtx
+auto.key
+auto.crt

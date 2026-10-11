@@ -1,0 +1,1 @@
+"""CCTV worker package."""
